@@ -4,7 +4,7 @@
 
 **智能饲料配方优化系统**
 
-[![Version](https://img.shields.io/badge/version-1.1.7-blue.svg)](https://github.com/cacr92/cacrfeedformula)
+[![Version](https://img.shields.io/badge/version-1.1.8-blue.svg)](https://github.com/cacr92/cacrfeedformula)
 [![Rust](https://img.shields.io/badge/rust-2021-orange.svg)](https://www.rust-lang.org/)
 [![React](https://img.shields.io/badge/react-19.1-61dafb.svg)](https://reactjs.org/)
 [![Tauri](https://img.shields.io/badge/tauri-2.9-24c8d8.svg)](https://tauri.app/)
