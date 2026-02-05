@@ -4,7 +4,7 @@
 
 **智能饲料配方优化系统**
 
-[![Version](https://img.shields.io/badge/version-1.1.8-blue.svg)](https://github.com/cacr92/cacrfeedformula)
+[![Version](https://img.shields.io/badge/version-1.1.9-blue.svg)](https://github.com/cacr92/cacrfeedformula)
 [![Rust](https://img.shields.io/badge/rust-2021-orange.svg)](https://www.rust-lang.org/)
 [![React](https://img.shields.io/badge/react-19.1-61dafb.svg)](https://reactjs.org/)
 [![Tauri](https://img.shields.io/badge/tauri-2.9-24c8d8.svg)](https://tauri.app/)
@@ -24,7 +24,7 @@
 
 ## 📖 项目简介
 
-**CaCrFeedFormula** 是一款专为畜牧业和水产养殖业设计的专业饲料配方优化系统。系统采用工业级线性规划算法，集成AI智能助手，提供从原料管理、配方设计、优化计算到分析报告的全流程解决方案。
+**CaCrFeedFormula** 是一款专为畜牧业设计的专业饲料配方优化系统。系统采用工业级线性规划算法，集成AI智能助手，提供从原料管理、配方设计、优化计算到分析报告的全流程解决方案。
 
 ### 🎯 设计理念
 
