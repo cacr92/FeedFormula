@@ -1,0 +1,97 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">CaCrFeedFormula README hero</title>
+  <desc id="desc">Decorative banner showing feed formula optimization, batches, profit and AI workflow.</desc>
+  <defs>
+    <linearGradient id="bg" x1="88" y1="60" x2="1096" y2="368" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#163B2E"/>
+      <stop offset="0.52" stop-color="#1E5B49"/>
+      <stop offset="1" stop-color="#1F6D77"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F8D66D"/>
+      <stop offset="1" stop-color="#F39C4A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="706" y1="82" x2="1046" y2="338" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8BE3C8"/>
+      <stop offset="1" stop-color="#D9FFF3"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="1200" height="420" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#0F241D" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+
+  <rect x="12" y="12" width="1176" height="396" rx="28" fill="url(#bg)"/>
+  <rect x="12" y="12" width="1176" height="396" rx="28" stroke="#FFFFFF" stroke-opacity="0.16"/>
+
+  <g opacity="0.14">
+    <circle cx="102" cy="88" r="3.5" fill="#E5FFF5"/>
+    <circle cx="148" cy="88" r="3.5" fill="#E5FFF5"/>
+    <circle cx="194" cy="88" r="3.5" fill="#E5FFF5"/>
+    <circle cx="240" cy="88" r="3.5" fill="#E5FFF5"/>
+    <circle cx="286" cy="88" r="3.5" fill="#E5FFF5"/>
+    <circle cx="102" cy="132" r="3.5" fill="#E5FFF5"/>
+    <circle cx="148" cy="132" r="3.5" fill="#E5FFF5"/>
+    <circle cx="194" cy="132" r="3.5" fill="#E5FFF5"/>
+    <circle cx="240" cy="132" r="3.5" fill="#E5FFF5"/>
+    <circle cx="286" cy="132" r="3.5" fill="#E5FFF5"/>
+    <circle cx="102" cy="176" r="3.5" fill="#E5FFF5"/>
+    <circle cx="148" cy="176" r="3.5" fill="#E5FFF5"/>
+    <circle cx="194" cy="176" r="3.5" fill="#E5FFF5"/>
+    <circle cx="240" cy="176" r="3.5" fill="#E5FFF5"/>
+    <circle cx="286" cy="176" r="3.5" fill="#E5FFF5"/>
+    <circle cx="102" cy="220" r="3.5" fill="#E5FFF5"/>
+    <circle cx="148" cy="220" r="3.5" fill="#E5FFF5"/>
+    <circle cx="194" cy="220" r="3.5" fill="#E5FFF5"/>
+    <circle cx="240" cy="220" r="3.5" fill="#E5FFF5"/>
+    <circle cx="286" cy="220" r="3.5" fill="#E5FFF5"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="640" y="74" width="470" height="272" rx="26" fill="#FFFFFF" fill-opacity="0.10"/>
+    <rect x="640" y="74" width="470" height="272" rx="26" stroke="#FFFFFF" stroke-opacity="0.18"/>
+  </g>
+
+  <g opacity="0.12">
+    <path d="M672 250H1082" stroke="#F2FFF9" stroke-width="1"/>
+    <path d="M672 210H1082" stroke="#F2FFF9" stroke-width="1"/>
+    <path d="M672 170H1082" stroke="#F2FFF9" stroke-width="1"/>
+    <path d="M672 130H1082" stroke="#F2FFF9" stroke-width="1"/>
+  </g>
+
+  <path d="M694 290L756 248L814 258L876 206L934 216L996 156L1054 178" stroke="url(#line)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="694" cy="290" r="7" fill="#F5FFF9"/>
+  <circle cx="756" cy="248" r="7" fill="#F5FFF9"/>
+  <circle cx="814" cy="258" r="7" fill="#F5FFF9"/>
+  <circle cx="876" cy="206" r="7" fill="#F5FFF9"/>
+  <circle cx="934" cy="216" r="7" fill="#F5FFF9"/>
+  <circle cx="996" cy="156" r="7" fill="#F5FFF9"/>
+  <circle cx="1054" cy="178" r="7" fill="#F5FFF9"/>
+
+  <rect x="680" y="96" width="112" height="56" rx="18" fill="#FFFFFF" fill-opacity="0.16"/>
+  <rect x="806" y="96" width="112" height="56" rx="18" fill="#FFFFFF" fill-opacity="0.16"/>
+  <rect x="932" y="96" width="112" height="56" rx="18" fill="#FFFFFF" fill-opacity="0.16"/>
+  <rect x="680" y="310" width="112" height="18" rx="9" fill="#FFFFFF" fill-opacity="0.12"/>
+  <rect x="806" y="310" width="112" height="18" rx="9" fill="#FFFFFF" fill-opacity="0.12"/>
+  <rect x="932" y="310" width="112" height="18" rx="9" fill="#FFFFFF" fill-opacity="0.12"/>
+
+  <text x="706" y="131" fill="#F6FFF8" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700">Materials</text>
+  <text x="831" y="131" fill="#F6FFF8" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700">Formula</text>
+  <text x="973" y="131" fill="#F6FFF8" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700">AI Assist</text>
+
+  <circle cx="96" cy="112" r="42" fill="#FFFFFF" fill-opacity="0.12"/>
+  <circle cx="96" cy="112" r="31" fill="url(#accent)"/>
+  <path d="M88 120C88 109.507 96.507 101 107 101H112C112 111.493 103.493 120 93 120H88Z" fill="#17382D"/>
+  <path d="M76 124C76 111.85 85.85 102 98 102H101C101 114.15 91.15 124 79 124H76Z" fill="#17382D"/>
+
+  <text x="156" y="112" fill="#F7FFF9" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2">DESKTOP FEED FORMULA SYSTEM</text>
+  <text x="72" y="176" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800">Materials → Formula → Profit</text>
+  <text x="72" y="230" fill="#D8FFF0" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="600">Premix design, batch planning, stock estimation and AI assistance</text>
+  <text x="72" y="284" fill="#DCEFE7" font-family="Segoe UI, Arial, sans-serif" font-size="20">Rust · Tauri · React · SQLite · HiGHS · DeepSeek</text>
+
+  <rect x="72" y="322" width="148" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.13"/>
+  <rect x="232" y="322" width="158" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.13"/>
+  <rect x="402" y="322" width="148" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.13"/>
+  <text x="104" y="347" fill="#F8FFF9" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Optimization</text>
+  <text x="266" y="347" fill="#F8FFF9" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Batch &amp; Stock</text>
+  <text x="449" y="347" fill="#F8FFF9" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">AI Context</text>
+</svg>
